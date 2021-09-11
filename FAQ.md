@@ -46,3 +46,18 @@
   * Confirm the time slot;
   * Make a reservation of the room;
   * Show up on time, host the session, and make sure people stay engaged and practiced.
+
+### How do I book a room?
+* Currently, we will use the study room at the libraries. You can find the how-to-book-it from this [link](http://www.lib.sjtu.edu.cn/f/content/detail.shtml?id=6159&lang=zh-cn);
+* We are also open to suggestions for other places.
+
+## The Cans
+
+### Can I speak non-English languages during the session?
+Yes, but with limited times. If one finds the situation confusing, one could use a break card. However, the break cards are extremely limited.
+
+### Can I bring a friend over?
+Yes and no. If there are open seats, you can have someone with you via the permission of the host. Otherwise, you can not bring other people in.
+
+### Can I join at a later date?
+Yes. If you have things to figure out, you can take a break or join at a later date. But, it is recommended that you show up regularly to keep the momentum.
