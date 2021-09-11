@@ -1,4 +1,5 @@
 # Frequently Asked Quesetions
+Version: 1.2
 
 ## The Whs
 
@@ -54,10 +55,10 @@
 ## The Cans
 
 ### Can I speak non-English languages during the session?
-Yes, but with limited times. If one finds the situation confusing, one could use a break card. However, the break cards are extremely limited.
+* Yes, but with limited times. If one finds the situation confusing, one could use a break card. However, the break cards are extremely limited.
 
 ### Can I bring a friend over?
-Yes and no. If there are open seats, you can have someone with you via the permission of the host. Otherwise, you can not bring other people in.
+* Yes and no. If there are open seats, you can have someone with you via the permission of the host. Otherwise, you can not bring other people in.
 
 ### Can I join at a later date?
-Yes. If you have things to figure out, you can take a break or join at a later date. But, it is recommended that you show up regularly to keep the momentum.
+* Yes. If you have things to figure out, you can take a break or join at a later date. But, it is recommended that you show up regularly to keep the momentum.
