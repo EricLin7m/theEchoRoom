@@ -52,6 +52,9 @@ Version: 1.2
 * Currently, we will use the study room at the libraries. You can find the how-to-book-it from this [link](http://www.lib.sjtu.edu.cn/f/content/detail.shtml?id=6159&lang=zh-cn);
 * We are also open to suggestions for other places.
 
+### How do we decide the host for each session?
+* We will use a rotation table to let people take turns hosting the session. If one has a time conflict, one needs to find someone to switch the session order.
+
 ## The Cans
 
 ### Can I speak non-English languages during the session?
