@@ -46,6 +46,7 @@ Version: 1.2
   * Come up with a topic for the group to prepare;
   * Confirm the time slot;
   * Make a reservation of the room;
+  * Bring your personal laptop to record the session;
   * Show up on time, host the session, and make sure people stay engaged and practiced.
 
 ### How do I book a room?
