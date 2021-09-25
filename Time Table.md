@@ -3,7 +3,7 @@
 |:-----------:|:------:|-----------|---------------------------------|----------------|
 | 09-23 21:00 | Thu 00 | Chenxi    | Ice breaker, Q&A, & discussions | 理科群楼5号楼   |
 | 09-30 21:00 | Thu 01 | Jizhou    | September 30th is a special day | 包玉刚图书馆412 |
-| 10-09 21:00 | Thu 02 | Tianxiang | TBA @ Round Thu 01              | 包玉刚图书馆TBD |
+| 10-09 21:00 | Thu 02 | Tianxiang | TBA @ Round Thu 01              | 包玉刚图书馆412 |
 | 10-14 21:00 | Thu 03 | Yuan      | TBA @ Round Thu 02              | 包玉刚图书馆TBD |
 | 10-21 21:00 | Thu 04 | Chengxin  | TBA @ Round Thu 03              | 包玉刚图书馆TBD |
 | 10-28 21:00 | Thu 05 | Beibei    | TBA @ Round Thu 04              | 包玉刚图书馆TBD |
