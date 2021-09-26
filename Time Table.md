@@ -10,7 +10,7 @@
 | 11-04 21:00 | Thu 06 | Shan      | TBA @ Round Thu 05              | 包玉刚图书馆TBD |
 | 11-11 21:00 | Thu 07 | Qin       | TBA @ Round Thu 06              | 包玉刚图书馆TBD |
 | 11-18 21:00 | Thu 08 | Chenxi    | TBA @ Round Thu 07              | 包玉刚图书馆TBD |
-| 11-25 21:00 | Thu 09 | Jizhou    | TBA @ Round Thu 08              | 包玉刚图书馆412 |
+| 11-25 21:00 | Thu 09 | Jizhou    | TBA @ Round Thu 08              | 包玉刚图书馆TBD |
 | 12-02 21:00 | Thu 10 | Tianxiang | TBA @ Round Thu 09              | 包玉刚图书馆TBD |
 | 12-09 21:00 | Thu 11 | Yuan      | TBA @ Round Thu 10              | 包玉刚图书馆TBD |
 | 12-16 21:00 | Thu 12 | Chengxin  | TBA @ Round Thu 11              | 包玉刚图书馆TBD |
