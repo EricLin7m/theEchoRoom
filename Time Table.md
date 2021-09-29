@@ -32,3 +32,4 @@
 | 12-01 19:00 | Wed 08 | Lingmin   | TBA @ Round Wed 07              | 包玉刚图书馆TBD |
 | 12-08 19:00 | Wed 09 | Shizhao   | TBA @ Round Wed 08              | 包玉刚图书馆TBD |
 | 12-15 19:00 | Wed 10 | Shuang    | TBA @ Round Wed 09              | 包玉刚图书馆TBD |
+| 12-22 19:00 | Wed 11 | Chiyu     | TBA @ Round Wed 10              | 包玉刚图书馆TBD |
