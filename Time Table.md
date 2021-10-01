@@ -3,8 +3,8 @@
 |:-----------:|:------:|-----------|---------------------------------|---------------|
 | 09-23 21:00 | Thu 00 | Chenxi    | Ice breaker, Q&A, & discussions | 理科群楼5号楼   |
 | 09-30 21:00 | Thu 01 | Jizhou    | September 30th is a special day | 包玉刚图书馆412 |
-| 10-09 21:00 | Thu 02 | Tianxiang | TBA @ Round Thu 01              | 包玉刚图书馆412 |
-| 10-14 21:00 | Thu 03 | Yuan      | TBA @ Round Thu 02              | 包玉刚图书馆TBD |
+| 10-09 21:00 | Thu 02 | Tianxiang | Dorm life                       | 包玉刚图书馆412 |
+| 10-14 21:00 | Thu 03 | Yuan      | TBA @ Round Thu 02              | 包玉刚图书馆412 |
 | 10-21 21:00 | Thu 04 | Chengxin  | TBA @ Round Thu 03              | 包玉刚图书馆TBD |
 | 10-28 21:00 | Thu 05 | Beibei    | TBA @ Round Thu 04              | 包玉刚图书馆TBD |
 | 11-04 21:00 | Thu 06 | Shan      | TBA @ Round Thu 05              | 包玉刚图书馆TBD |
@@ -22,7 +22,7 @@
 | Date        | Round  | Host      | Topic                           | Place         |
 |:-----------:|:------:|-----------|---------------------------------|---------------|
 | 09-29 19:00 | Wed 00 | Chenxi    | Ice breaker, Q&A, & discussions | 包玉刚图书馆412 |
-| 10-13 19:00 | Wed 01 | Siyu      | TBA @ Round Wed 00              | 包玉刚图书馆TBD |
+| 10-13 19:00 | Wed 01 | Siyu      | TBA @ Round Wed 00              | 包玉刚图书馆412 |
 | 10-20 19:00 | Wed 02 | Lingmin   | TBA @ Round Wed 01              | 包玉刚图书馆TBD |
 | 10-27 19:00 | Wed 03 | Shizhao   | TBA @ Round Wed 02              | 包玉刚图书馆TBD |
 | 11-03 19:00 | Wed 04 | Shuang    | TBA @ Round Wed 03              | 包玉刚图书馆TBD |
