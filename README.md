@@ -9,3 +9,9 @@ Welcome to oral communication in a face-to-face format, a.k.a OCf2f. OCf2f is a 
 
 ## Active Sessions
 In 2021, we will have two active sessions per week. One wednesday night session & one thursday session, you can find the schedule [here](https://github.com/ChenxiSSS/OCf2f/blob/QQ/Time%20Table.md).
+
+## Waiting List
+We have just started to look into arranging an official waiting list. If you want to be on the list, please sign up using SJTU Lemon Mini Program.
+You can scan the code below!
+
+<img src="https://user-images.githubusercontent.com/22267254/140885343-154f9f13-10b8-497f-ac3f-43afa338f923.jpg" width="300">
