@@ -29,7 +29,7 @@
 | 11-10 19:00 | Wed 05 | Chenlu    | Gender difference & inequality  | 包玉刚图书馆407 |
 | 11-17 19:00 | Wed 06 | Zhikai    | Financial Quotient              | 包玉刚图书馆407 |
 | 11-24 19:00 | Wed 07 | Shizhao   | Entertainment                   | 包玉刚图书馆412 |
-| 12-01 19:00 | Wed 08 | ???       | TBA @ Round Wed 07              | 包玉刚图书馆412 |
+| 12-01 19:00 | Wed 08 | Shuang    | TBA @ Round Wed 07              | 包玉刚图书馆412 |
 | 12-08 19:00 | Wed 09 | Siyu      | TBA @ Round Wed 08              | 包玉刚图书馆412 |
-| 12-15 19:00 | Wed 10 | Shuang    | TBA @ Round Wed 09              | 包玉刚图书馆407 |
+| 12-15 19:00 | Wed 10 | ???       | TBA @ Round Wed 09              | 包玉刚图书馆407 |
 | 12-22 19:00 | Wed 11 | Chenlu    | TBA @ Round Wed 10              | 包玉刚图书馆407 |
