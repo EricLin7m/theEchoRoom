@@ -27,7 +27,7 @@
     - [Host kits](https://github.com/ChenxiSSS/OCf2f/issues/15);
     - [Multiple hosts per night?](https://github.com/ChenxiSSS/OCf2f/issues/9)
     - [The importance of a moderator?](https://github.com/ChenxiSSS/OCf2f/issues/18)
-  - Waiting lists:
+  - [Waiting lists](https://github.com/ChenxiSSS/OCf2f/issues/21):
     - The state of waiting list?
       - What is the balance of the number-of-peopole on the list;
       - Threadshold to scale?
