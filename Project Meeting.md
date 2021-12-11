@@ -34,6 +34,7 @@
     - Can I cut the line?
       - Join the organizing team?
       - Help w/ the tasks?
+      - Rotating people to waiting list?
   - Tier list:
     - [Scale in the grand scheme? ](https://github.com/ChenxiSSS/OCf2f/issues/19)
   - TODO | Management:
