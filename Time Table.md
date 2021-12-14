@@ -30,8 +30,8 @@
 | 11-10 18:00 | Wed 05 | Chenlu    | Gender difference & inequality  | 包玉刚图书馆407 |
 | 11-17 18:00 | Wed 06 | Zhikai    | Financial Quotient              | 包玉刚图书馆407 |
 | 11-24 18:00 | Wed 07 | Shizhao   | Entertainment                   | 包玉刚图书馆412 |
-| 12-01 18:30 | Wed 08 | Shuang    | TBA @ Round Wed 07              | 包玉刚图书馆412 |
-| 12-08 18:30 | Wed 09 | Siyu      | Education & character           | 包玉刚图书馆412 |
+| 12-01 18:30 | Wed 08 | Shuang    | Time Management                 | 包玉刚图书馆412 |
+| 12-08 18:30 | Wed 09 | Siyu      | Education & Character           | 包玉刚图书馆412 |
 | 12-15 18:30 | Wed 10 | Shan      | Stress & Mental Health          | 包玉刚图书馆407 |
 | 12-22 18:30 | Wed 11 | Chenlu    | TBA @ Round Wed 10              | 包玉刚图书馆407 |
 | 12-29 18:30 | Wed 12 | Siqi      | TBA @ Round Wed 11              | 包玉刚图书馆407 |
