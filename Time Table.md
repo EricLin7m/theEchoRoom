@@ -14,9 +14,9 @@
 | 12-02 20:50 | Thu 10 | Yuan      | Dixit                           | 包玉刚图书馆412 |
 | 12-09 20:50 | Thu 11 | Tianxiang | Positive thinking               | 包玉刚图书馆412 |
 | 12-16 20:50 | Thu 12 | Beibei    | Slangs and Phrases              | 包玉刚图书馆412 |
-| 12-23 20:50 | Thu 13 | Lening    | TBA @ Round Thu 12              | 包玉刚图书馆412 |
-| 12-30 20:50 | Thu 14 | Shan      | TBA @ Round Thu 13              | 包玉刚图书馆412 |
-| 01-06 20:50 | Thu 15 | Qin       | TBA @ Round Thu 14              | 包玉刚图书馆412 |
+| 12-23 20:50 | Thu 13 | Shan      | Two Truths, One Lie             | 包玉刚图书馆412 |
+| 12-30 20:50 | Thu 14 | Lening    | TBA @ Round Thu 13              | 包玉刚图书馆412 |
+| 01-06 20:50 | Thu 15 | Qin       | TBA @ Round Thu 14              | 包玉刚图书馆413 |
 | 01-13 20:50 | Thu 16 | ???       | TBA @ Round Thu 15              | 包玉刚图书馆412 |
 
 ### Time Table (Wed Night) for 2021
