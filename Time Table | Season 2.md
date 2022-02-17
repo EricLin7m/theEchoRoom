@@ -24,7 +24,7 @@ Pre-sessions:
 
 Host order (Starting Mar 9th):
 * Dongsheng
-* Linsen
+* Silin
 * Bingxue
 * Jiacheng
 * Yan
