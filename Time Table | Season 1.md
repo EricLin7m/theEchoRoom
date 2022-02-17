@@ -15,9 +15,8 @@
 | 12-09 20:50 | Thu 11 | Tianxiang | Positive thinking               | 包玉刚图书馆412 |
 | 12-16 20:50 | Thu 12 | Beibei    | Slangs and Phrases              | 包玉刚图书馆412 |
 | 12-23 20:50 | Thu 13 | Shan      | Two Truths, One Lie             | 包玉刚图书馆412 |
-| 12-30 20:50 | Thu 14 | Lening    | TBA @ Round Thu 13              | 包玉刚图书馆412 |
-| 01-06 20:50 | Thu 15 | Qin       | TBA @ Round Thu 14              | 包玉刚图书馆413 |
-| 01-13 20:50 | Thu 16 | ???       | TBA @ Round Thu 15              | 包玉刚图书馆412 |
+| 12-30 20:50 | Thu 14 | Lening    | Deadline                        | 包玉刚图书馆412 |
+| 01-06 20:50 | Thu 15 | Qin       | Reading Sharing Session         | 包玉刚图书馆413 |
 
 ### Time Table (Wed Night) for 2021
 | Date        | Round  | Host      | Topic                           | Place         |
@@ -33,7 +32,6 @@
 | 12-01 18:30 | Wed 08 | Shuang    | Time Management                 | 包玉刚图书馆412 |
 | 12-08 18:30 | Wed 09 | Siyu      | Education & Character           | 包玉刚图书馆412 |
 | 12-15 18:30 | Wed 10 | Shan      | Stress & Mental Health          | 包玉刚图书馆407 |
-| 12-22 18:30 | Wed 11 | Chenlu    | TBA @ Round Wed 10              | 包玉刚图书馆407 |
-| 12-29 18:30 | Wed 12 | Siqi      | TBA @ Round Wed 11              | 包玉刚图书馆407 |
-| 01-05 18:30 | Wed 13 | Tingting  | TBA @ Round Wed 12              | 包玉刚图书馆407 |
-| 01-12 18:30 | Wed 14 | ???       | TBA @ Round Wed 13              | 包玉刚图书馆412 |
+| 12-22 18:30 | Wed 11 | Shizhao   | Life in SJTU                    | 包玉刚图书馆407 |
+| 12-29 18:30 | Wed 12 | Siqi      | Stereotype                      | 包玉刚图书馆407 |
+| 01-05 18:30 | Wed 13 | Tingting  | Love                            | 包玉刚图书馆407 |
