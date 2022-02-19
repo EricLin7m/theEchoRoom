@@ -3,6 +3,18 @@
 Here is the host list for Season 2. The location is always @ *the Pao yue-kong Library, SJTU*.
 
 ## Session 1 | Wed :clock630: 18:30-19:30 :clock730:
+
+| Date     | Duration    | Room | Host     |        Topic | Apply ID | Password |
+|----------|-------------|------|----------|--------------|----------|----------|
+| Feb   23 | 18:30-20:00 | @412 | Shizhao  | Friendship   | 235509   | 444444   |
+| Mar   02 | 18:30-20:00 | @412 | Shuang   | TBD          | 235510   | 555555   |
+| Mar   09 | 18:30-20:00 | @412 | Jianing  | TBD          | 235511   | 333333   |
+| Mar   16 | 18:30-20:00 | @412 | Fukang   | TBD          | 235514   | 555555   |
+| Mar   23 | 18:30-20:00 | @412 | Siqi     | TBD          | 235515   | 555555   |
+| Mar   30 | 18:30-20:00 | @412 | Shan     | TBD          | 235516   | 777777   |
+| Apr   06 | 18:30-20:00 | TBD  | Tingting | TBD          | TBD      | TBD      |
+| Apr   13 | 18:30-20:00 | TBD  | Zhikai   | TBD          | TBD      | TBD      |
+
 This is a renewed session, and the S1 Round 1 starts on Feb 23rd.
 
 Host order:
