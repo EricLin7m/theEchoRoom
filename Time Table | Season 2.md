@@ -52,7 +52,7 @@ Host order (Starting Mar 9th):
 * Dongsheng
 * Silin
 * Bingxue
-* Jiacheng
+* Jiaxi
 * Yan
 * Denghu
 * Chenxi
