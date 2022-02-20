@@ -36,7 +36,7 @@ Host order:
 | Mar 09  | 20:30-22:00 | @412 | Dongsheng | TBD          |   235557 |   222222 |
 | Mar 16  | 20:30-22:00 | @412 | Silin     | TBD          |   235558 |   444444 |
 | Mar 23  | 20:30-22:00 | @412 | Bingxue   | TBD          |   235559 |   777777 |
-| Mar 30  | 20:30-22:00 | @412 | TBD       | TBD          |   235560 |   444444 |
+| Mar 30  | 20:30-22:00 | @412 | Jiaxi     | TBD          |   235560 |   444444 |
 | Apr 06  | 20:30-22:00 | @412 | Yan       | TBD          |   235561 |   222222 |
 | Apr 13  | 20:30-22:00 | @412 | Denghu    | TBD          |   235562 |   444444 |
 | Apr 20  | 20:30-22:00 | @412 | Chenxi    | TBD          |   235563 |   000000 |
@@ -59,6 +59,18 @@ Host order (Starting Mar 9th):
 * Haixing
 
 ## Session 3 | Thu :clock9: 21:00-22:00 :clock10:
+
+| Date   | Duration    | Room | Host      | Topic | Apply ID | Password |
+|--------|-------------|------|-----------|-------|----------|----------|
+| Feb 24 | 20:30-22:00 | @413 |    Qin    | TBD   | 235537   |   222222 |
+| Mar 03 | 20:30-22:00 | @413 |   Jizhou  | TBD   | 235539   |   222222 |
+| Mar 10 | 20:30-22:00 | @413 |   Beibei  | TBD   | 235540   |   555555 |
+| Mar 17 | 20:30-22:00 | @413 |    Yuan   | TBD   | 235542   |   222222 |
+| Mar 24 | 20:30-22:00 | @413 |    Shan   | TBD   | 235544   |   555555 |
+| Mar 31 | 20:30-22:00 | @413 |   Chenxi  | TBD   | 235547   |   222222 |
+| Apr 07 | 20:30-22:00 | @413 | Tianxiang | TBD   | 235548   |   666666 |
+| Apr 14 | 20:30-22:00 | @413 |   Lening  | TBD   | 235549   |   555555 |
+
 Session 3 is a renewed session, and the S3 Round 1 starts on Feb 24th.
 
 Host order:
