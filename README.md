@@ -1,4 +1,5 @@
 # the EchoRoom
+![Echo Banner V3s](https://user-images.githubusercontent.com/22267254/154969898-f9102298-c21a-42c1-bd2b-bb8c9628c0da.jpg)
 Welcome to the EchoRoom, formerly known as oral communication in a face-to-face format, a.k.a OCf2f. The EchoRoom is a weekly self-organized session to practice oral communication skills. Hope to see you express yourself at the sessions!
 
 ## Key Infos
