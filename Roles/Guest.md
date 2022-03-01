@@ -1,5 +1,7 @@
 # EchoRoom Guest Member
 
+TBD
+
 # Waitinglist Rules
 
 * 基本原则：
