@@ -15,7 +15,7 @@ Here is the host list for Season 2. The location is always @ *the Pao yue-kong L
 | Apr   06 | 18:30-20:00 | TBD  | Tingting | TBD          | TBD      | TBD      |
 | Apr   13 | 18:30-20:00 | TBD  | Wenjun   | TBD          | TBD      | TBD      |
 
-This is a renewed session, and the S1 Round 1 starts on Feb 23rd.
+This is a renewed session, and the S1 Round 1 starts on Feb 23rd. Shizhao is the Manager of Session 1.
 
 Host order:
 * Shizhao
@@ -32,7 +32,7 @@ Host order:
 | Date    | Duration    | Room | Host      | Topic        | Apply ID | Password |
 |---------|-------------|------|-----------|--------------|----------|----------|
 | Feb 23  | 21:00-22:00 | @410 | Chenxi    | Icebreaker   |   235552 |   665165 |
-| Mar 02  | 20:30-22:00 | @412 | Shizhao   | TBD          |   235556 |   553654 |
+| Mar 02  | 20:30-22:00 | @412 | Shizhao   | Time Travel  |   235556 |   553654 |
 | Mar 09  | 20:30-22:00 | @412 | Dongsheng | TBD          |   235557 |   222222 |
 | Mar 16  | 20:30-22:00 | @412 | Silin     | TBD          |   235558 |   444444 |
 | Mar 23  | 20:30-22:00 | @412 | Haixing   | TBD          |   235559 |   777777 |
@@ -42,7 +42,7 @@ Host order:
 | Apr 20  | 20:30-22:00 | @412 | Chenxi    | TBD          |   235563 |   000000 |
 | Apr 27  | 20:30-22:00 | @412 | Bingxue   | TBD          |   235579 |   777777 |
 
-This is a new session. We have 2 pre-sessions before the S2 Round 1 starts on Mar 9th.
+This is a new session. We have 2 pre-sessions before the S2 Round 1 starts on Mar 9th. Jiaxi is the Manager of Sesssion 2.
 
 Pre-sessions:
 * Feb 23rd hosted by Chenxi
@@ -71,7 +71,7 @@ Host order (Starting Mar 9th):
 | Apr 07 | 20:30-22:00 | @413 | Tianxiang | TBD   | 235548   |   666666 |
 | Apr 14 | 20:30-22:00 | @413 |   Jizhou  | TBD   | 235549   |   555555 |
 
-Session 3 is a renewed session, and the S3 Round 1 starts on Feb 24th.
+Session 3 is a renewed session, and the S3 Round 1 starts on Feb 24th. Yuan is the EchoRoom Manager of Session 4.
 
 Host order:
 * Qin
@@ -99,7 +99,7 @@ Host order:
 | Apr   28 | 20:30-22:00 | @412 | Yinghui  | TBD        |   235577 |   444444 |
 | May   05 | 20:30-22:00 | @412 | Xinwei   | TBD        |   235578 |   888888 |
 
-Session 4 is a new session. We have 3 pre-sessions before the S4 Round 1 starts on Mar 17th.
+Session 4 is a new session. We have 3 pre-sessions before the S4 Round 1 starts on Mar 17th. Session 4's Manager is yet TBD.
 
 Pre-sessions:
 * Feb 24th hosted by Chenxi
