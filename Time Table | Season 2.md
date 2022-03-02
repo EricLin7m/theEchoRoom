@@ -7,7 +7,7 @@ Here is the host list for Season 2. The location is always @ *the Pao yue-kong L
 | Date     | Duration    | Room | Host     |        Topic | Apply ID | Password |
 |----------|-------------|------|----------|--------------|----------|----------|
 | Feb   23 | 18:30-20:00 | @412 | Shizhao  | Friendship   | 235509   | 444444   |
-| Mar   02 | 18:30-20:00 | @412 | Shuang   | TBD          | 235510   | 555555   |
+| Mar   02 | 18:30-20:00 | @412 | Shuang   | COVID Impact | 235510   | 555555   |
 | Mar   09 | 18:30-20:00 | @412 | Jianing  | TBD          | 235511   | 333333   |
 | Mar   16 | 18:30-20:00 | @412 | Fukang   | TBD          | 235514   | 555555   |
 | Mar   23 | 18:30-20:00 | @412 | Siqi     | TBD          | 235515   | 555555   |
@@ -60,10 +60,10 @@ Host order (Starting Mar 9th):
 
 ## Session 3 | Thu :clock9: 21:00-22:00 :clock10:
 
-| Date   | Duration    | Room | Host      | Topic | Apply ID | Password |
-|--------|-------------|------|-----------|-------|----------|----------|
-| Feb 24 | 20:30-22:00 | @413 |    Qin    | TBD   | 235537   |   222222 |
-| Mar 03 | 20:30-22:00 | @413 |   Lening  | TBD   | 235539   |   222222 |
+| Date   | Duration    | Room | Host      | Topic               | Apply ID | Password |
+|--------|-------------|------|-----------|---------------------|----------|----------|
+| Feb 24 | 20:30-22:00 | @413 |    Qin    | Beijing Winter Game | 235537   |   222222 |
+| Mar 03 | 20:30-22:00 | @413 |   Lening  | Trip & Experience   | 235539   |   222222 |
 | Mar 10 | 20:30-22:00 | @413 |   Beibei  | TBD   | 235540   |   555555 |
 | Mar 17 | 20:30-22:00 | @413 |    Yuan   | TBD   | 235542   |   222222 |
 | Mar 24 | 20:30-22:00 | @413 |    Shan   | TBD   | 235544   |   555555 |
