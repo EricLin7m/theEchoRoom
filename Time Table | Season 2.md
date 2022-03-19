@@ -66,9 +66,9 @@ Host order (Starting Mar 9th):
 | Mar 03 | 20:30-22:00 | @413 |   Lening  | Trip & Experience   | 235539   |   222222 |
 | Mar 17 | 20:30-22:00 | @413 |   Shuang  | COVID Impact        | 235542   |   222222 |
 | Mar 24 | 20:30-22:00 | @413 |    Yuan   | TBD                 | 235544   |   555555 |
-| Mar 31 | 20:30-22:00 | @413 |    Shan   | TBD                 | 235547   |   222222 |
+| Mar 31 | 20:30-22:00 | @413 | Tianxiang | TBD                 | 235547   |   222222 |
 | Apr 07 | 20:30-22:00 | @413 |   Yinghui | TBD                 | 235548   |   666666 |
-| Apr 14 | 20:30-22:00 | @413 | Tianxiang | TBD                 | 235549   |   555555 |
+| Apr 14 | 20:30-22:00 | @413 |    Shan   | TBD                 | 235549   |   555555 |
 | Apr 21 | 20:30-22:00 | @413 |   Jizhou  | TBD                 | 238252   |   000000 |
 
 Session 3 is a renewed session, and the S3 Round 1 starts on Feb 24th. Yuan is the EchoRoom Manager of Session 4.
