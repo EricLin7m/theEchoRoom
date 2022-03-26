@@ -1,6 +1,14 @@
 # the EchoRoom
 ![Echo Banner V3s](https://user-images.githubusercontent.com/22267254/154969898-f9102298-c21a-42c1-bd2b-bb8c9628c0da.jpg)
-Welcome to the EchoRoom, formerly known as oral communication in a face-to-face format, a.k.a OCf2f. The EchoRoom is a weekly self-organized session to practice oral communication skills. Hope to see you express yourself at the sessions!
+The **EchoRoom** is a community platform promoting oral communication in English via self-organized sessions. Members host regular **Expression Session** following the EchoRoom Community Guideline with oversight from the self-volunteered EchoRoom Session Manager.
+
+By joining the EchoRoom:
+- You join a creative community;
+- You make friends;
+- You practice your oral communication skills;
+- You share your point of view and collide with others';
+
+We hope to see you at our Expression Sessions!
 
 ## Key Infos
 * If you want to join the EchoRoom, please check out this [FAQ](https://github.com/ChenxiSSS/theEchoRoom/blob/QQ/FAQ.md#how-do-i-sign-up);
