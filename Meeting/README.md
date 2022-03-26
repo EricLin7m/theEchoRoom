@@ -11,13 +11,15 @@
   * Addition of Community Guideline Version Draft 1.0;
   * Addition of the Mteam online discussion time;
   * Update the Manager Workflow;
-  * Addition of weekly topic preview & Wechat Account Posts;
+  * Addition of weekly topic preview & Wechat Account Posts; https://github.com/ChenxiSSS/theEchoRoom/issues/13
 * Minor Changes:
   * Update FAQ to Version 1.3 with better wording;
 * Roadmap Proposal:
-  * Host Summit?
+  * Host Summit? https://github.com/ChenxiSSS/theEchoRoom/issues/27
   * Expression Session with personalized/characterized naming scheme?
-  * Add other Session format?
+  * Add other Session format? https://github.com/ChenxiSSS/theEchoRoom/issues/19
+* Tasks in need of help:
+  * Gather more questions & draft answers https://github.com/ChenxiSSS/theEchoRoom/issues/7
 
 ## Project Meeting
 
