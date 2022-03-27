@@ -10,12 +10,22 @@
   * Offical EchoRoom Community Member List is documented up to Mar 27th, 2022;
   * Addition of Community Guideline Version Draft 1.0;
     * Right now: https://github.com/ChenxiSSS/theEchoRoom/blob/QQ/Roles/Community%20Guideline.md
-  * Addition of the Mteam online discussion time;
-    * Monday 21:00-22:00; 
+  * Addition of the Mteam Buzz Session, placing it as an informal regular management discussion;
+    * Happens on a weekly or biweekly basis when needed;
+    * General updates only happen within the WeChat Group;
+    * Non-significant discussions only happen within the WeChat Group;
+    * Major discussions **Need** to happen via video chat;
+    * Proposed Timeslot: Monday 21:00-22:00;
+      * Need to check everybody's availability;
+      * People are allowed to skip and catch up later when a conflict of the schedule happens;
+    * Task related:
+      * Chenxi organize the agenda;
+      * People take turns to write minutes;
   * Update the Manager Workflow;
     * Best to have topic ready at the last session;
     * Make sure to have the topic ready, latest, by Sunday 16:00;
     * Make sure to have detailed topic ready, latest, by Monday 16:00;
+    * In terms of *host*
     * Update the GitHub page after the topic is ready or after the session is finished;
   * Addition of weekly topic preview & Wechat Account Posts; https://github.com/ChenxiSSS/theEchoRoom/issues/13
 * Minor Changes:
