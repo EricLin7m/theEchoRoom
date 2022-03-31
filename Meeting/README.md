@@ -25,7 +25,7 @@
     * Best to have topic ready at the last session;
     * Make sure to have the topic ready, latest, by Sunday 16:00;
     * Make sure to have detailed topic ready, latest, by Monday 16:00;
-    * In terms of *host*
+    * In terms of *host switches* or other schedule conflicts, the Manager can make arrangements on a case-by-case basis; 
     * Update the GitHub page after the topic is ready or after the session is finished;
   * Addition of weekly topic preview & Wechat Account Posts; https://github.com/ChenxiSSS/theEchoRoom/issues/13
 * Minor Changes:
