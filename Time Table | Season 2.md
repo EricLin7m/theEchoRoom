@@ -91,8 +91,8 @@ Host order:
 | Mar   03 | 20:30-22:00 | @311 | Yuan     | Movies       |   235567 |   333333 |
 | Mar   17 | 20:30-22:00 | @311 | Shuang   | COVID Impact |   235568 |   333333 |
 | Mar   24 | 20:30-22:00 | @412 | Jiayuan  | Digital Life |   235571 |   777777 |
-| Mar   31 | 20:30-22:00 | @412 | Qinjing  | TBD          |   235572 |   444444 |
-| Apr   07 | 20:30-22:00 | @412 | Xinyi    | TBD          |   235573 |   444444 |
+| Mar   31 | 20:30-22:00 | @412 | Qinjing  | Flat Earther vs. ball earther  |   235572 |   444444 |
+| Apr   07 | 20:30-22:00 | @412 | Xinyi    | Health and well-being   |   235573 |   444444 |
 | Apr   14 | 20:30-22:00 | @412 | Xianghao | TBD          |   235574 |   666666 |
 | Apr   21 | 20:30-22:00 | @412 | Xiangkun | TBD          |   235575 |   222222 |
 | Apr   28 | 20:30-22:00 | @412 | Wenwen   | TBD          |   235576 |   000000 |
