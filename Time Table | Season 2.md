@@ -11,9 +11,9 @@ Here is the host list for Season 2. The location is always @ *the Pao yue-kong L
 | Mar   16 | 18:30-20:00 | @412 | Jianing  | Campus Lockdown    | 235514   | 555555   |
 | Mar   23 | 18:30-20:00 | @412 | Siqi     | Compassion Fatigue | 235515   | 555555   |
 | Mar   30 | 18:30-20:00 | @412 | Tingting | Time Management    | 235516   | 777777   |
-| Apr   06 | 18:30-20:00 | @412 | Wenjun   | TBD                | 237540   | 555555   |
-| Apr   13 | 18:30-20:00 | TBD  | Fukang   | TBD                | 237544   | 888888   |
-| Apr   21 | 18:30-20:00 | TBD  | Shan     | TBD                | 237555   | 666666   |
+| Apr   06 | 18:30-20:00 | @412 | Shan     | Book/Movie Sharing | 237540   | 555555   |
+| Apr   13 | 18:30-20:00 | TBD  | Wenjun   | TBD                | 237544   | 888888   |
+| Apr   21 | 18:30-20:00 | TBD  | Shizhao  | TBD                | 237555   | 666666   |
 
 This is a renewed session, and the S1 Round 1 starts on Feb 23rd. Shizhao is the Manager of Session 1.
 
