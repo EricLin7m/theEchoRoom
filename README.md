@@ -4,7 +4,7 @@ The **EchoRoom** is a community platform promoting oral communication in English
 
 By joining the EchoRoom:
 - You join a creative community;
-- You make friends;
+- You make friends & memories;
 - You practice your oral communication skills;
 - You share your point of view and collide with others';
 
