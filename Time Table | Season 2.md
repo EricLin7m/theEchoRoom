@@ -62,42 +62,42 @@ Host order (Starting Mar 9th):
 
 | Date   | Duration    | Room | Host      | Topic               | Apply ID | Password |
 |--------|-------------|------|-----------|---------------------|----------|----------|
-| Feb 24 | 20:30-22:00 | @413 |    Qin    | Beijing Winter Game | 235537   |   222222 |
-| Mar 03 | 20:30-22:00 | @413 |   Lening  | Trip & Experience   | 235539   |   222222 |
-| Mar 17 | 20:30-22:00 | @413 |   Shuang  | COVID Impact        | 235542   |   222222 |
-| Mar 24 | 20:30-22:00 | @413 |    Yuan   | React: SNL          | 235544   |   555555 |
+| Feb 24 | 20:30-22:00 | @413 | Qin       | Beijing Winter Game | 235537   |   222222 |
+| Mar 03 | 20:30-22:00 | @413 | Lening    | Trip & Experience   | 235539   |   222222 |
+| Mar 17 | 20:30-22:00 | @413 | Shuang    | COVID Impact        | 235542   |   222222 |
+| Mar 24 | 20:30-22:00 | @413 | Yuan      | React: SNL          | 235544   |   555555 |
 | Mar 31 | 20:30-22:00 | @413 | Tianxiang | Collect My Life     | 235547   |   222222 |
-| Apr 07 | 20:30-22:00 | @413 |   Yinghui | TBD                 | 235548   |   666666 |
-| Apr 14 | 20:30-22:00 | @413 |    Shan   | TBD                 | 235549   |   555555 |
-| Apr 21 | 20:30-22:00 | @413 |   Jizhou  | TBD                 | 238252   |   000000 |
+| Apr 07 | 20:30-22:00 | @413 | Yinghui   | Sports & Stars      | 235548   |   666666 |
+| Apr 14 | 20:30-22:00 | @413 | Chenxi D  | TBD                 | 235549   |   555555 |
+| Apr 21 | 20:30-22:00 | @413 | Jizhou    | TBD                 | 238252   |   000000 |
 
 Session 3 is a renewed session, and the S3 Round 1 starts on Feb 24th. Yuan is the EchoRoom Manager of Session 4.
 
 Host order:
-* Qin
+* TBD
 * Lening
 * Chenxi D
 * Yuan
 * Shan
-* Yinghui
 * Tianxiang
+* Yinghui
 * Jizhou
 
 ## Session 4 | Thu :clock9: 21:00-22:00 :clock10:
 
-| Date     | Duration    | Room | Host     | Topic        | Apply ID | Password |
-|----------|-------------|------|----------|--------------|----------|----------|
-| Feb   24 | 21:00-22:00 | @310 | Chenxi   | Icebreaker   |   235553 |   321321 |
-| Mar   03 | 20:30-22:00 | @311 | Yuan     | Movies       |   235567 |   333333 |
-| Mar   17 | 20:30-22:00 | @311 | Shuang   | COVID Impact |   235568 |   333333 |
-| Mar   24 | 20:30-22:00 | @412 | Jiayuan  | Digital Life |   235571 |   777777 |
-| Mar   31 | 20:30-22:00 | @412 | Qinjing  | Flat Earther vs. ball earther  |   235572 |   444444 |
-| Apr   07 | 20:30-22:00 | @412 | Xinyi    | Health and well-being   |   235573 |   444444 |
-| Apr   14 | 20:30-22:00 | @412 | Xianghao | TBD          |   235574 |   666666 |
-| Apr   21 | 20:30-22:00 | @412 | Xiangkun | TBD          |   235575 |   222222 |
-| Apr   28 | 20:30-22:00 | @412 | Wenwen   | TBD          |   235576 |   000000 |
-| May   05 | 20:30-22:00 | @412 | Shuang   | TBD          |   235577 |   444444 |
-| May   12 | 20:30-22:00 | @412 | Xinwei   | TBD          |   235578 |   888888 |
+| Date     | Duration    | Room | Host     | Topic                        | Apply ID | Password |
+|----------|-------------|------|----------|------------------------------|----------|----------|
+| Feb   24 | 21:00-22:00 | @310 | Chenxi   | Icebreaker                   |   235553 |   321321 |
+| Mar   03 | 20:30-22:00 | @311 | Yuan     | Movies                       |   235567 |   333333 |
+| Mar   17 | 20:30-22:00 | @311 | Shuang   | COVID Impact                 |   235568 |   333333 |
+| Mar   24 | 20:30-22:00 | @412 | Jiayuan  | Digital Life                 |   235571 |   777777 |
+| Mar   31 | 20:30-22:00 | @412 | Qinjing  | Flat Earther vs Ball Earther |   235572 |   444444 |
+| Apr   07 | 20:30-22:00 | @412 | Xinyi    | Health and Well-being        |   235573 |   444444 |
+| Apr   14 | 20:30-22:00 | @412 | Xianghao | TBD                          |   235574 |   666666 |
+| Apr   21 | 20:30-22:00 | @412 | Xiangkun | TBD                          |   235575 |   222222 |
+| Apr   28 | 20:30-22:00 | @412 | Wenwen   | TBD                          |   235576 |   000000 |
+| May   05 | 20:30-22:00 | @412 | Shuang   | TBD                          |   235577 |   444444 |
+| May   12 | 20:30-22:00 | @412 | Xinwei   | TBD                          |   235578 |   888888 |
 
 Session 4 is a new session. We have 3 pre-sessions before the S4 Round 1 starts on Mar 17th. Qinjing & Shuang co-manages the session.
 
