@@ -1,5 +1,6 @@
 # EchoRoom Community Guideline
 :page_with_curl: Version: Draft 0.1
+> [Reference](https://www.gettoby.com/p/kp7axfqfr8ff)
 
 ## Engage in Good Faith
 
