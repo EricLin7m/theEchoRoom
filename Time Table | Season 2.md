@@ -29,18 +29,18 @@ Host order:
 
 ## Session 2 | Wed :clock9: 21:00-22:00 :clock10:
 
-| Date    | Duration    | Room | Host      | Topic        | Apply ID | Password |
-|---------|-------------|------|-----------|--------------|----------|----------|
-| Feb 23  | 21:00-22:00 | @410 | Chenxi    | Icebreaker   |   235552 |   665165 |
-| Mar 02  | 20:30-22:00 | @412 | Shizhao   | Time Travel  |   235556 |   553654 |
-| Mar 16  | 20:30-22:00 | @412 | Dongsheng | Life Check   |   235558 |   444444 |
-| Mar 23  | 20:30-22:00 | @412 | Silin     | Travel       |   235559 |   777777 |
-| Mar 30  | 20:30-22:00 | @412 | Haixing   | Idol         |   235560 |   444444 |
-| Mar 06  | 20:30-22:00 | @412 | Jiaxi     | TBD          |   235561 |   222222 |
-| Apr 13  | 20:30-22:00 | @412 | Yan       | TBD          |   235562 |   444444 |
-| Apr 20  | 20:30-22:00 | @412 | Denghu    | TBD          |   235563 |   000000 |
-| Apr 27  | 20:30-22:00 | @412 | Chenxi S  | TBD          |   235579 |   777777 |
-| May 04  | 20:30-22:00 | @412 | Bingxue   | TBD          |   238250 |   333333 |
+| Date    | Duration    | Room | Host      | Topic            | Apply ID | Password |
+|---------|-------------|------|-----------|------------------|----------|----------|
+| Feb 23  | 21:00-22:00 | @410 | Chenxi    | Icebreaker       |   235552 |   665165 |
+| Mar 02  | 20:30-22:00 | @412 | Shizhao   | Time Travel      |   235556 |   553654 |
+| Mar 16  | 20:30-22:00 | @412 | Dongsheng | Life Check       |   235558 |   444444 |
+| Mar 23  | 20:30-22:00 | @412 | Silin     | Travel           |   235559 |   777777 |
+| Mar 30  | 20:30-22:00 | @412 | Haixing   | Idol             |   235560 |   444444 |
+| Apr 06  | 20:30-22:00 | @412 | Jiaxi     | Moon & Sixpence  |   235561 |   222222 |
+| Apr 13  | 20:30-22:00 | @412 | Yan       | TBD              |   235562 |   444444 |
+| Apr 20  | 20:30-22:00 | @412 | Denghu    | TBD              |   235563 |   000000 |
+| Apr 27  | 20:30-22:00 | @412 | Chenxi S  | TBD              |   235579 |   777777 |
+| May 04  | 20:30-22:00 | @412 | Bingxue   | TBD              |   238250 |   333333 |
 
 This is a new session. We have 2 pre-sessions before the S2 Round 1 starts on Mar 9th. Jiaxi is the Manager of Sesssion 2.
 
