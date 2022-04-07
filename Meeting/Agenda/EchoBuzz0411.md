@@ -15,6 +15,13 @@
   * Task related:
     * Chenxi organize the agenda;
     * People take turns to write minutes;
+  * How to get good at being a manager:
+    * Balanced life;
+    * The structure of the Buzz Session is to free managers from the inconsistent workload and replace them w/a sustainable workload;
+    * Make constant free time for your session, check in with session members;
+    * Express your issue freely & timely;
+    * Shine your session w/ your personal takes;
+    * Bring your expertise to the table; 
 * Update the Manager Workflow;
   * Best to have topic ready at the last session;
   * Make sure to have the topic ready, latest, by Sunday 16:00;
