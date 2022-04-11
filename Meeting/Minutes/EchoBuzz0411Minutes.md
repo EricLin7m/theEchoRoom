@@ -1,1 +1,74 @@
+# EchoBuzz 22-04-11
+Weekly or bi-weekly update w/ 1-hour max time span;
+Time: 21:06-22:06
+Present: Chenxi, Shizhao, Jiaxi, Bingxue, Eric, Qinjing, & Shuang
+Apologies: None
 
+## Schedule
+- Check-in w/ everyone (5min)
+- Manager report on the latest Expression Sessions (informal, general oral expression, formal report if deemed necessary)
+  - Shizhao:
+    - S1: Normal;
+  - Jiaxi:
+    - S2: Lack of interaction, formality need to be switched?
+  - Eric:
+    - S3: Small issues;
+  - Qinjing:
+    - S4: Normal;
+
+- Decision on the Buzz order: Taking meeting minutes (2min)
+  - Order:
+    - Chenxi
+    - Shizhao
+    - Jiaxi
+    - Bingxue
+    - Eric
+    - Qinjing
+    - Shuang
+
+- Quick items (Max 10min)
+  - Manager Workflow:
+    - Shuang: might be too early or to tight?
+    - Qinjing: the time interval is the same, still have one week to prepare;
+    - Chenxi: Agree, extra time for weekly preview. Also, important for QA, in case of a bad topic or duplicate topic;
+  - Weekly preview:
+    - General: approve;
+    - Shizhao: [Switch member based on interest?](https://github.com/ChenxiSSS/theEchoRoom/issues/33)
+    - Chenxi: Great issue by Shizhao. Discuss more on EchoBuzz0418;
+
+- Main discussions (Max 30min)
+  - Chenxi introduced the Community Guideline (not finished);
+    - Shizhao: Followed most part;
+    - Chenxi: Try to finish the Draft by next meeting;
+  - Host Summit
+    - Qinjing: Might not needed right now? Wait a bit until all the memebrs are hosted sessions;
+    - Chenxi: Fair point;
+    - Shuang on Host:
+      - S4 are good so far, beyond expectation;
+    - Jiaxi on Host:
+      - Most hosts are alright;
+      - Add Host tutorial:
+        - Topic selections;
+        - Hosting tips;
+        - Experience sharing & motivation sharing;
+    - Shuang on Host Summit:
+      - Echo Jiaxi's point-of-view;
+      - Demo & template: hosting workflow;
+      - Open an doc to share & update?
+    - Bingxue on Host: Agreed w/ Jiaxi 
+    - Chenxi:
+      - Eric & Qinjing w/ special point-of-view;
+      - We need to encourage people to host topic w/ personal take & point-of-view;
+- Split the tasks (text-only)
+  - Agenda for EchoBuzz0418: Chenxi
+  - Minutes for EchoBuzz0418: Shizhao
+  - New Session Names:
+    - S1: Shizhao
+    - S2: Jiaxi & Bingxue
+    - S3: Eric & Chenxi
+    - S4: Qinjing & Shuang
+  - Feedbacks on the following topic (Discussion will happen on EchoBuzz0418):
+    - [Dynamic Session Structure?](https://github.com/ChenxiSSS/theEchoRoom/issues/35)
+    - [Other Session format?](https://github.com/ChenxiSSS/theEchoRoom/issues/36)
+    - [Switch member based on interest?](https://github.com/ChenxiSSS/theEchoRoom/issues/33)
+    - [Platform 3.0 Update](https://github.com/ChenxiSSS/theEchoRoom/blob/QQ/Plan/Roadmap3.0.md)
