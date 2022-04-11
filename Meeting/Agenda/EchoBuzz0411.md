@@ -40,7 +40,7 @@
   * Customed by the Manager or Session members;
   * Naming scheme example: Session Cortana;
 * Add other Session formats? https://github.com/ChenxiSSS/theEchoRoom/issues/19
-* Dynamic Session Sturcture?
+* Dynamic Session Structure? https://github.com/ChenxiSSS/theEchoRoom/issues/35
   * Allow Manager to expand the Session from a stationary 8 per session to a 8-10 person session with a variable time slot from 1-1.5 hour;
   * The Manager should decide on a individual basis;
   * Variation:
