@@ -32,7 +32,16 @@ Define the current Roles:
 
 ## Participation Guideline
 Covering:
-* the general Code of Conduct
+* General Code of Conduct
+  * To join and participate in EchoRoom Sessios, one should:
+    * Sign up through the proper channel;
+    * Offer basic information to identify yourself;
+    * Dress properly;
+    * Show up timely and regularly;
+    * Stay organized with the host and help the host by participating in the session in a proper manner;
+    * Show respect to the peers within the Session;
+    * Express yourself when talking during the sessions;
+    * To keep a safe and open environment and maintain essential privacy, please do not share the conversations outside the group.
 * Regular Member Rules
 * Waiting List and Guest Member Rules
 * Alumni Rules
