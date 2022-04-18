@@ -5,6 +5,10 @@
 
 ## Regular Updates
 
+### Update 2022-04-18
+* Agenda: [EchoBuzz0418](https://github.com/ChenxiSSS/theEchoRoom/blob/QQ/Meeting/Agenda/EchoBuzz0418.md)
+* Minutes: [EchoBuzz0418 | Minutes]()
+
 ### Update 2022-04-11
 * Agenda: [EchoBuzz0411](https://github.com/ChenxiSSS/theEchoRoom/blob/09c4ad8d65b7c7c1e02bf02df4b77c07b4657e9b/Meeting/Agenda/EchoBuzz0411.md)
 * Minutes: [EchoBuzz0411 | Minutes](https://github.com/ChenxiSSS/theEchoRoom/blob/ec67183ab952ac93370c1f42ebc52261cde85d84/Meeting/Minutes/EchoBuzz0411Minutes.md)
