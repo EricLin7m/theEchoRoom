@@ -1,6 +1,6 @@
 # EchoBuzz 22-04-18
 Weekly or bi-weekly update w/ 1-hour max time span;
-- Time: 21:06-22:06
+- Time: 21:00-22:00
 - Present: Chenxi, Shizhao, Jiaxi, Bingxue, Eric, & Shuang
 - Apologies: Qinjing
 
