@@ -17,6 +17,7 @@ Weekly or bi-weekly update w/ 1-hour max time span;
     - S4: Qinjing & Shuang
   - Manager Workflow:
     - Any more thoughts?
+  - Promotion in general? 
   - Weekly preview:
     - Feedback on the preview of preview?
     - Structure:
