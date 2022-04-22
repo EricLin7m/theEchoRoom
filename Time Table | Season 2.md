@@ -39,8 +39,8 @@ Host order:
 | Apr 06  | 20:30-22:00 | @412 | Jiaxi     | Moon & Sixpence    |   235561 |   222222 |
 | Apr 13  | 20:30-22:00 | @412 | Yan       | Movies & TV Series |   235562 |   444444 |
 | Apr 20  | 20:30-22:00 | @412 | Denghu    | TBD                |   235563 |   000000 |
-| Apr 27  | 20:30-22:00 | @412 | Chenxi S  | TBD                |   235579 |   777777 |
-| May 04  | 20:30-22:00 | @412 | Bingxue   | TBD                |   238250 |   333333 |
+| Apr 27  | 20:30-22:00 | @412 | Bingxue   | TBD                |   235579 |   777777 |
+| May 04  | 20:30-22:00 | @412 | Chenxi S  | TBD                |   238250 |   333333 |
 
 This is a new session. We have 2 pre-sessions before the S2 Round 1 starts on Mar 9th. Jiaxi is the Manager of Sesssion 2.
 
@@ -69,7 +69,8 @@ Host order (Starting Mar 9th):
 | Mar 31 | 20:30-22:00 | @413 | Tianxiang | Collect My Life     | 235547   |   222222 |
 | Apr 07 | 20:30-22:00 | @413 | Yinghui   | Sports & Stars      | 235548   |   666666 |
 | Apr 14 | 20:30-22:00 | @413 | Chenxi D  | TBD                 | 235549   |   555555 |
-| Apr 21 | 20:30-22:00 | @413 | Jizhou    | TBD                 | 238252   |   000000 |
+| Apr 21 | 20:30-22:00 | @413 | Chenxi S  | TBD                 | 238252   |   000000 |
+| Apr 28 | 20:30-22:00 | @413 | Yuna      | TBD                 | 238252   |   000000 |
 
 Session 3 is a renewed session, and the S3 Round 1 starts on Feb 24th. Yuan is the EchoRoom Manager of Session 4.
 
