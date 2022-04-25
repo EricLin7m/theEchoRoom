@@ -7,7 +7,7 @@ Here is the host list for Season 2. The location is always @ *the Pao yue-kong L
 | Date     | Duration    | Room | Host     | Topic              | Apply ID | Password |
 |----------|-------------|------|----------|--------------------|----------|----------|
 | Feb   23 | 18:30-20:00 | @412 | Shizhao  | Friendship         | 235509   | 444444   |
-| Mar   02 | 18:30-20:00 | @412 | Shuang   | COVID Impact       | -        | -        |
+| Mar   02 | 18:30-20:00 | @412 | Shuang   | COVID Impact       | 235510   | 555555   |
 | Mar   16 | 18:30-20:00 | online  | Jianing  | Campus Lockdown    | -        | -        |
 | Mar   23 | 18:30-20:00 | online  | Siqi     | Compassion Fatigue | -        | -        |
 | Mar   30 | 18:30-20:00 | online  | Tingting | Time Management    | -        | -        |
