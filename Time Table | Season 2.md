@@ -38,8 +38,8 @@ Host order:
 | Mar 30  | 20:30-22:00 | @412 | Haixing   | Idol               |   235560 |   444444 |
 | Apr 06  | 20:30-22:00 | @412 | Jiaxi     | Moon & Sixpence    |   235561 |   222222 |
 | Apr 13  | 20:30-22:00 | @412 | Yan       | Movies & TV Series |   235562 |   444444 |
-| Apr 20  | 20:30-22:00 | @412 | Denghu    | TBD                |   235563 |   000000 |
-| Apr 27  | 20:30-22:00 | @412 | Bingxue   | TBD                |   235579 |   777777 |
+| Apr 20  | 20:30-22:00 | @412 | Denghu    | Game: Undercover   |   235563 |   000000 |
+| Apr 27  | 20:30-22:00 | @412 | Bingxue   | Game: Werewords    |   235579 |   777777 |
 | May 04  | 20:30-22:00 | @412 | Chenxi S  | TBD                |   238250 |   333333 |
 
 This is a new session. We have 2 pre-sessions before the S2 Round 1 starts on Mar 9th. Jiaxi is the Manager of Sesssion 2.
