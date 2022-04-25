@@ -11,10 +11,10 @@ Weekly or bi-weekly update w/ 1-hour max time span;
 
 - Quick items (Max 10min)
   - New Session Names:
-    - S1: Shizhao
-    - S2: Jiaxi & Bingxue | Session Omega? From Eric's recommendation;
-    - S3: Eric & Chenxi
-    - S4: Qinjing & Shuang | Session Double Fish 双鱼座谈;
+    - S1: Shizhao | Kiwe 奇异果🥝 ;
+    - S2: Jiaxi & Bingxue | Session Omega;
+    - S3: Eric & Chenxi | The 8;
+    - S4: Qinjing & Shuang | Session Pisces 双鱼座谈;
   - Manager Workflow:
     - Any more thoughts?
   - Weekly preview:
