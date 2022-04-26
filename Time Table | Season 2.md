@@ -8,12 +8,19 @@ Here is the host list for Season 2. The location is always @ *the Pao yue-kong L
 |----------|-------------|------|----------|--------------------|----------|----------|
 | Feb   23 | 18:30-20:00 | @412 | Shizhao  | Friendship         | 235509   | 444444   |
 | Mar   02 | 18:30-20:00 | @412 | Shuang   | COVID Impact       | 235510   | 555555   |
-| Mar   16 | 18:30-20:00 | @412 | Jianing  | Campus Lockdown    | 235514   | 555555   |
-| Mar   23 | 18:30-20:00 | @412 | Siqi     | Compassion Fatigue | 235515   | 555555   |
-| Mar   30 | 18:30-20:00 | @412 | Tingting | Time Management    | 235516   | 777777   |
-| Apr   06 | 18:30-20:00 | @412 | Shan     | Book/Movie Sharing | 237540   | 555555   |
-| Apr   13 | 18:30-20:00 | TBD  | Wenjun   | TBD                | 237544   | 888888   |
-| Apr   21 | 18:30-20:00 | TBD  | Shizhao  | TBD                | 237555   | 666666   |
+| Mar   16 | 18:30-20:00 | online  | Jianing  | Campus Lockdown    | -        | -        |
+| Mar   23 | 18:30-20:00 | online  | Siqi     | Compassion Fatigue | -        | -        |
+| Mar   30 | 18:30-20:00 | online  | Tingting | Time Management    | -        | -        |
+| Apr   06 | 18:30-20:00 | online  | Shan     | Book/Movie Sharing | -        | -        |
+| Apr   13 | 18:30-20:00 | online  | Wenjun   | MBTI Test          | -        | -        |
+| Apr   20 | 18:30-20:00 | online  | Shizhao  | daily in pandemic  | -        | -        |
+| Apr   27 | 18:30-20:00 | online  | Chang    | f2f talk or emaind | -        | -        |
+| May   11 | 18:30-20:00 | online  | Jianing  | TBD                | -        | -        |
+| May   18 | 18:30-20:00 | online  | Siqi     | TBD                | -        | -        |
+| May   25 | 18:30-20:00 | online  | Tingting | TBD                | -        | -        |
+| Jun   1  | 18:30-20:00 | online  | Wenjun   | TBD                | -        | -        |
+| Jun   8  | 18:30-20:00 | online  | Shan     | TBD                | -        | -        |
+
 
 This is a renewed session, and the S1 Round 1 starts on Feb 23rd. Shizhao is the Manager of Session 1.
 
