@@ -4,10 +4,10 @@ Here is the host list for Season 2. The location is always @ *the Pao yue-kong L
 
 ## Session 1 | Wed :clock630: 18:30-19:30 :clock730:
 
-| Date     | Duration    | Room | Host     | Topic              | Apply ID | Password |
-|----------|-------------|------|----------|--------------------|----------|----------|
-| Feb   23 | 18:30-20:00 | @412 | Shizhao  | Friendship         | 235509   | 444444   |
-| Mar   02 | 18:30-20:00 | @412 | Shuang   | COVID Impact       | 235510   | 555555   |
+| Date     | Duration    | Room    | Host     | Topic              | Apply ID | Password |
+|----------|-------------|---------|----------|--------------------|----------|----------|
+| Feb   23 | 18:30-20:00 | @412    | Shizhao  | Friendship         | 235509   | 444444   |
+| Mar   02 | 18:30-20:00 | @412    | Shuang   | COVID Impact       | 235510   | 555555   |
 | Mar   16 | 18:30-20:00 | online  | Jianing  | Campus Lockdown    | -        | -        |
 | Mar   23 | 18:30-20:00 | online  | Siqi     | Compassion Fatigue | -        | -        |
 | Mar   30 | 18:30-20:00 | online  | Tingting | Time Management    | -        | -        |
@@ -93,19 +93,19 @@ Host order:
 
 ## Session 4 | Thu :clock9: 21:00-22:00 :clock10:
 
-| Date     | Duration    | Room | Host     | Topic                        | Apply ID | Password |
-|----------|-------------|------|----------|------------------------------|----------|----------|
-| Feb   24 | 21:00-22:00 | @310 | Chenxi   | Icebreaker                   |   235553 |   321321 |
-| Mar   03 | 20:30-22:00 | @311 | Yuan     | Movies                       |   235567 |   333333 |
-| Mar   17 | 20:30-22:00 | @311 | Shuang   | COVID Impact                 |   235568 |   333333 |
-| Mar   24 | 20:30-22:00 | @412 | Jiayuan  | Digital Life                 |   235571 |   777777 |
-| Mar   31 | 20:30-22:00 | @412 | Qinjing  | Flat Earther vs Ball Earther |   235572 |   444444 |
-| Apr   07 | 20:30-22:00 | @412 | Xinyi    | Health and Well-being        |   235573 |   444444 |
-| Apr   14 | 20:30-22:00 | @412 | Xianghao | The Impact of Social Media   |   235574 |   666666 |
+| Date     | Duration    | Room | Host     | Topic                                   | Apply ID | Password |
+|----------|-------------|------|----------|-----------------------------------------|----------|----------|
+| Feb   24 | 21:00-22:00 | @310 | Chenxi   | Icebreaker                              |   235553 |   321321 |
+| Mar   03 | 20:30-22:00 | @311 | Yuan     | Movies                                  |   235567 |   333333 |
+| Mar   17 | 20:30-22:00 | @311 | Shuang   | COVID Impact                            |   235568 |   333333 |
+| Mar   24 | 20:30-22:00 | @412 | Jiayuan  | Digital Life                            |   235571 |   777777 |
+| Mar   31 | 20:30-22:00 | @412 | Qinjing  | Flat Earther vs Ball Earther            |   235572 |   444444 |
+| Apr   07 | 20:30-22:00 | @412 | Xinyi    | Health and Well-being                   |   235573 |   444444 |
+| Apr   14 | 20:30-22:00 | @412 | Xianghao | The Impact of Social Media              |   235574 |   666666 |
 | Apr   21 | 20:30-22:00 | @412 | Xiangkun | The Knowledge and Experience About Drug |   235575 |   222222 |
-| Apr   28 | 20:30-22:00 | @412 | Wenwen   | Book reading                 |   235576 |   000000 |
-| May   05 | 20:30-22:00 | @412 | Shuang   | TBD                          |   235577 |   444444 |
-| May   12 | 20:30-22:00 | @412 | Xinwei   | TBD                          |   235578 |   888888 |
+| Apr   28 | 20:30-22:00 | @412 | Wenwen   | Book Reading                            |   235576 |   000000 |
+| May   05 | 20:30-22:00 | @412 | Shuang   | TBD                                     |   235577 |   444444 |
+| May   12 | 20:30-22:00 | @412 | Xinwei   | TBD                                     |   235578 |   888888 |
 
 Session 4 is a new session. We have 3 pre-sessions before the S4 Round 1 starts on Mar 17th. Qinjing & Shuang co-manages the session.
 
