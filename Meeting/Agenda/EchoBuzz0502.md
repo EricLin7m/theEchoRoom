@@ -1,0 +1,34 @@
+# EchoBuzz 22-05-02
+Weekly or bi-weekly update w/ 1-hour max time span;
+- Time: 21:00-22:00
+- Present: Chenxi, Shizhao, Jiaxi, Bingxue, Eric, & Shuang
+- Apologies: Qinjing
+
+## Schedule
+- Start recording & writing minutes
+- Check-in w/ everyone (5min)
+- Manager report on the latest Expression Sessions (informal, general oral expression, formal report if deemed necessary)
+- Update on the possible new manager candidate?
+
+- Quick items (Max 10min)
+  - New Session Names:
+    - S1: Shizhao | Kiwe 奇异果🥝 ;
+    - S2: Jiaxi & Bingxue | Session Ω;
+    - S3: Eric & Chenxi | The 8;
+    - S4: Qinjing & Shuang | Session Pisces;
+  - Manager Workflow:
+    - Any more thoughts?
+  - Weekly preview:
+    - Feedback on the preview of preview?
+    - Structure:
+      - Short title
+      - Type of session: conversation, debate, game session, interaction, etc.
+      - Lable: life, lifestyle, tech, emotion, science, fun, game, entertainment, etc.
+
+- Main discussions (Max 30min)
+  - [Online Session Update](https://github.com/ChenxiSSS/theEchoRoom/issues/42)
+
+- Split the tasks (text-only)
+  - Agenda for EchoBuzz0502: Chenxi
+  - Minutes for EchoBuzz0502: Bingxue
+  - Others TBD
