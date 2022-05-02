@@ -27,6 +27,7 @@ Weekly or bi-weekly update w/ 1-hour max time span;
 
 - Main discussions (Max 30min)
   - [Online Session Update](https://github.com/ChenxiSSS/theEchoRoom/issues/42)
+  - How far in the semester should we host the sessions?
 
 - Split the tasks (text-only)
   - Agenda for EchoBuzz0502: Chenxi
