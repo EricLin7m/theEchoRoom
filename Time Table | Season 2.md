@@ -74,18 +74,25 @@ Host order (Starting Mar 16th):
 * Bingxue
 
 ## Session 3 | Thu :clock9: 21:00-22:00 :clock10:
+ 
+| Date   | Duration    | Room   | Host      | Topic                        | Apply ID | Password |
+|--------|-------------|--------|-----------|------------------------------|----------|----------|
+| Feb 24 | 20:30-22:00 | @413   | Qin       | Beijing Winter Game          | 235537   |   222222 |
+| Mar 03 | 20:30-22:00 | @413   | Lening    | Trip & Experience            | 235539   |   222222 |
+| Mar 17 | 20:30-22:00 | online | Shuang    | COVID Impact                 | -        |   -      |
+| Mar 24 | 20:30-22:00 | online | Yuan      | React: SNL                   | -        |   -      |
+| Mar 31 | 20:30-22:00 | online | Tianxiang | Collect My Life              | -        |   -      |
+| Apr 07 | 20:30-22:00 | online | Yinghui   | Sports & Stars               | -        |   -      |
+| Apr 14 | 20:30-22:00 | online | Chenxi D  | My Favorite Spot             | -        |   -      |
+| Apr 21 | 20:30-22:00 | online | Chenxi S  | The earth is sphere or flat  | -        |   -      |
+| Apr 28 | 20:30-22:00 | online | Yuan      | Two Truths, One Lie V2.0     | -        |   -      |
+| May 05 | 20:30-22:00 | online | Leslie    | TV Series                    | -        |   -      |
+| May 12 | 20:30-22:00 | online | Tianxiang | Script killing               | -        |   -      |
+| May 19 | 20:30-22:00 | online | Yinghui   | TBD                          | -        |   -      |
+| May 26 | 20:30-22:00 | online | Chenxi D  | TBD                          | -        |   -      |
+| Jun 02 | 20:30-22:00 | online | Chenxi S  | TBD                          | -        |   -      |
+| Jun 09 | 20:30-22:00 | online | Yuan      | TBD                          | -        |   -      |
 
-| Date   | Duration    | Room | Host      | Topic               | Apply ID | Password |
-|--------|-------------|------|-----------|---------------------|----------|----------|
-| Feb 24 | 20:30-22:00 | @413 | Qin       | Beijing Winter Game | 235537   |   222222 |
-| Mar 03 | 20:30-22:00 | @413 | Lening    | Trip & Experience   | 235539   |   222222 |
-| Mar 17 | 20:30-22:00 | @413 | Shuang    | COVID Impact        | 235542   |   222222 |
-| Mar 24 | 20:30-22:00 | @413 | Yuan      | React: SNL          | 235544   |   555555 |
-| Mar 31 | 20:30-22:00 | @413 | Tianxiang | Collect My Life     | 235547   |   222222 |
-| Apr 07 | 20:30-22:00 | @413 | Yinghui   | Sports & Stars      | 235548   |   666666 |
-| Apr 14 | 20:30-22:00 | @413 | Chenxi D  | TBD                 | 235549   |   555555 |
-| Apr 21 | 20:30-22:00 | @413 | Chenxi S  | TBD                 | 238252   |   000000 |
-| Apr 28 | 20:30-22:00 | @413 | Yuna      | TBD                 | 238252   |   000000 |
 
 Session 3 is a renewed session, and the S3 Round 1 starts on Feb 24th. Yuan is the EchoRoom Manager of Session 4.
 
